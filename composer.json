@@ -23,7 +23,7 @@
     "repositories":[
 		{
 	        "type": "vcs",
-	        "url": "https://github.com/gilek/bootstrap-gtreetable.git"
+	        "url": "https://github.com/gilek/bootstrap-gtreetable"
 	    }
     ],
     "autoload": {
